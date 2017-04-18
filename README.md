@@ -16,7 +16,7 @@
 	
 	To call the put method just use localhost/hello/{TypeYourMessage}
 	
-#Spring Day 1 Session 2
+# Spring Day 1 Session 2
 
 Is about :
 - mapping URI 'host/employees?gender=male'
